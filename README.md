@@ -4,8 +4,9 @@ Welcome to the **Fashion Product Recommendation System** – a smart tool that s
 
 ## Screenshorts
 
-![Home page](https://github.com/user-attachments/assets/f8c367b4-abb6-4a5d-8c56-12347439d3ee)
-![Recommendation Page](https://github.com/user-attachments/assets/ff5ff947-848e-429e-b309-d344a0de0eb0)
+![image](https://github.com/user-attachments/assets/59cd997c-d714-4494-a692-9697d466867e)
+![image](https://github.com/user-attachments/assets/b96c6199-cee9-43c9-8e0a-59252b7d5af2)
+
 
 ## 🚀 Project Overview
 
